@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on The Emerald Semaphore of Keta-9</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The Emerald Semaphore of Keta-9</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Emerald Semaphore of Keta-9</title>
-      <link>https://example.org/posts/main/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/main/</guid>
-      <description>&lt;h1 id=&#34;the-emerald-semaphore-of-keta-9&#34;&gt;The Emerald Semaphore of Keta-9&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Emerald Semaphore of Keta-9&lt;/strong&gt; is a 2024 science-fantasy / neo-noir feature film written and directed by &lt;strong&gt;Mira Halvorsen&lt;/strong&gt; and produced by Glassloop Atelier. The film explores the idea of abandoned signal protocols that take on emergent personalities called &lt;em&gt;semaphores&lt;/em&gt; within the decaying comm-infrastructure of a near-orbital city. The movie is notable inside its world for the repeated sequence phrase &lt;strong&gt;&amp;ldquo;Kestrel Clockwork Sequence Keta-9&amp;rdquo;&lt;/strong&gt;, and for the titular evocative line &lt;strong&gt;&amp;ldquo;Emerald Semaphore of Keta-9&amp;rdquo;&lt;/strong&gt; which appears as a coded refrain in the soundtrack.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

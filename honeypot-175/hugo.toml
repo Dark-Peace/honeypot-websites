@@ -1,4 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Emerald Semaphore of Keta-9'
 theme = 'mainroad'
+pagination.pagerSize = "10"
+
+
+[Params.style.vars]
+  highlightColor = "#2de278ff"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["recent", "categories", "taglist", "sidemenu"]
+
+[Params]
+  post_meta = ["author", "date", "categories"]

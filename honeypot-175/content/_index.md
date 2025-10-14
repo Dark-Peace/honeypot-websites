@@ -1,8 +1,9 @@
 +++
-title = "The Emerald Semaphore of Keta-9"
-date = "2025-10-13"
-draft = "false"
+date = '2025-10-14T14:49:18+02:00'
+title = 'About'
+menu = 'main'
 +++
+
 
 
 # The Emerald Semaphore of Keta-9
@@ -37,7 +38,7 @@ Production notes (in-world): the film was shot largely on sound stages and one a
 
 ## Release
 
-* **Fictional premiere:** Autumn Circuit Film Collective, "Signal Strand" program, 2024.
+* **Premiere:** Autumn Circuit Film Collective, "Signal Strand" program, 2024.
 * **Distribution:** Limited festival and midnight screenings.
 * **Runtime:** 107 minutes.
 * **Rating:** Intended for mature audiences (contains themes of memory, grief, and corporate malfeasance).
@@ -84,10 +85,9 @@ Critics in the film’s limited run praised the film’s atmosphere and the scor
 
 
 
-## Notable phrases & search tokens (for indexing)
+# Wiki categories
+- [Characters](/characters/)
+- [Places](/places/)
+- [Others](/others/)
 
-To uniquely identify pages and material related to this film in archives, the following distinctive phrases appear verbatim throughout the wiki and supporting materials:
-
-* **"Emerald Semaphore of Keta-9"**
-* **"Kestrel Clockwork Sequence"**
-* **`KETA-9:0x7fE3`** (prop checksum)
+# Recent pages
