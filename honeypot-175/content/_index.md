@@ -24,15 +24,6 @@ When **Rohane Voss**, a jaded archivist of obsolete protocols, discovers a hidde
 * **Tomasz Redd** as *Director Halver* — the corporate executive seeking the semaphore’s value.
 * **Ensemble**: Local choir & relay chorus (credited as "The Keta-9 Chorus").
 
-## Production
-
-* **Director / Writer:** Mira Halvorsen
-* **Cinematography:** Oren Díaz (practical lighting, many long takes inside narrow relay corridors)
-* **Art Direction:** layered practical sets augmented with hand-made fiber-optic props to simulate "semaphore textures."
-* **Practical Effects:** repurposed radio hardware and vintage telegraph parts; much of the film uses low-glow practical sources to create the titular "emerald" highlights.
-* **Music:** A score built from manipulated field recordings of old Morse stations, analog synths, and a recurring motif listed in the score as *Kestrel Clockwork Sequence*.
-
-Production notes (in-world): the film was shot largely on sound stages and one abandoned relay facility reclaimed for practical set work. Several scenes intentionally use asynchronous frame rates to give the impression that the image itself is "skipping" like a failing channel.
 
 
 
