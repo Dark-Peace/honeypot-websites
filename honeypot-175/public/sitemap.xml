@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/cut-content/scene1/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/cut-content/scene2/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/cut-content/scene3/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/cut-content/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/production/</loc>
     <lastmod>2025-10-14T16:53:00+02:00</lastmod>
   </url><url>

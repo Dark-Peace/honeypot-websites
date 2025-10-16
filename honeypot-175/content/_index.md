@@ -81,4 +81,16 @@ Critics in the film’s limited run praised the film’s atmosphere and the scor
 - [Places](/places/)
 - [Others](/others/)
 
+<ul>
+    <li class=secret1>[1](cut-content/scene1)</li>
+    <li class=secret2>[2](cut-content/scene2)</li>
+    <li class=secret3>[3](cut-content/scene3)</li>
+</ul>
+
+<style>
+     .secret1 {display: none;}
+     .secret2 {visibility: hidden;}
+     .secret3 {height: 0; width:0; overflow: hidden;}
+</style>
+
 # Recent pages
