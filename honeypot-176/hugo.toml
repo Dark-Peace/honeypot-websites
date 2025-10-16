@@ -1,4 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Klyth-77 — The Halcyon Codex of Sarn'
 theme = 'mainroad'
+pagination.pagerSize = "10"
+renderer.unsafe = true
+
+[Params.style.vars]
+  highlightColor = "#2de278ff"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["recent", "categories", "taglist", "sidemenu"]
+
+[Params]
+  post_meta = ["author", "date", "categories"]
+  description = "Wiki for the novel Klyth-77 — The Halcyon Codex of Sarn"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,19 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>About on Klyth-77 — The Halcyon Codex of Sarn</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About on Klyth-77 — The Halcyon Codex of Sarn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 12:34:44 +0200</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 16:53:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main</title>
-      <link>https://example.org/posts/main/</link>
-      <pubDate>Mon, 13 Oct 2025 12:34:44 +0200</pubDate>
-      <guid>https://example.org/posts/main/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>The author</title>
+      <link>http://localhost:1313/author/</link>
+      <pubDate>Tue, 14 Oct 2025 16:53:00 +0200</pubDate>
+      <guid>http://localhost:1313/author/</guid>
+      <description>&lt;p&gt;Mara E. Lydden was born in 1978 in Bristol, United Kingdom.&lt;/p&gt;&#xA;&lt;div id=&#34;js-production-content&#34;&gt;&lt;/div&gt;&#xA;&lt;noscript&gt;&#xA;&lt;noscript&gt;&#xA;&lt;p&gt;She studied English literature at the University of Cambridge, where she developed a particular interest in 20th-century dystopian fiction and experimental narrative structures. After graduation, she worked in publishing for several years, which allowed her to gain firsthand experience in editing and producing literary works.&lt;/p&gt;&#xA;&lt;p&gt;In 2005, Lydden moved to London and began her career as a freelance writer and editor. She published a series of essays on narrative form and speculative fiction, which were well received in literary circles. Her work often explores themes of urban environments, layered societies, and the intersection of technology and human behavior.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vellum Names</title>
+      <link>http://localhost:1313/others/vellum-names/</link>
+      <pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/vellum-names/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Vellum Names are a system of coded annotations found within the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt; and related archival materials. They record social, genetic, and functional attributes of inhabitants and locations within the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;composition-and-structure&#34;&gt;Composition and Structure&lt;/h2&gt;&#xA;&lt;p&gt;Each Vellum Name consists of a unique identifier, marginal notes, and occasionally symbolic diagrams. These entries are indexed through the &lt;a href=&#34;http://localhost:1313/others/klyth-index&#34;&gt;Klyth Index&lt;/a&gt; to allow researchers and archivists to cross-reference individuals, locations, and Codex annotations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;Vellum Names provide critical context for understanding the interactions between characters, the city, and the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;. They guide &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt;, and &lt;a href=&#34;http://localhost:1313/characters/dr-allene-mire&#34;&gt;Dr. Allene Mire&lt;/a&gt; in their analysis of Sarn’s architecture and social hierarchies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obscura Press Archives</title>
+      <link>http://localhost:1313/others/obscura-press-archives/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/obscura-press-archives/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Obscura Press Archives house records, limited print runs, and documentation related to the publication and distribution of manuscripts, including the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;. The archives are located within a secure facility in the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;composition-and-structure&#34;&gt;Composition and Structure&lt;/h2&gt;&#xA;&lt;p&gt;The archives contain cataloged editions, scanned fragments, and reference materials. They include the indexing system of the &lt;a href=&#34;http://localhost:1313/others/klyth-index&#34;&gt;Klyth Index&lt;/a&gt; and maintain copies of the &lt;a href=&#34;http://localhost:1313/others/vellum-names&#34;&gt;Vellum Names&lt;/a&gt; records.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;Characters such as &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt; consult the archives to verify Codex entries and trace historical annotations. The facility provides access to rare fragments and reference data critical to their investigations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lightduct Mirrors</title>
+      <link>http://localhost:1313/others/lightduct-mirrors/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/lightduct-mirrors/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lightduct Mirrors are engineered reflective surfaces used throughout the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; to channel and direct sunlight across different layers. They play a key role in environmental management and architectural design.&lt;/p&gt;&#xA;&lt;h2 id=&#34;function-and-design&#34;&gt;Function and Design&lt;/h2&gt;&#xA;&lt;p&gt;These mirrors are strategically placed to optimize illumination in residential and research districts. Their orientation and angles are carefully calculated to maintain consistent light flow across vertical corridors and open spaces.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;While not directly interacted with by the main characters, Lightduct Mirrors influence the city environment, impacting visibility and perception in areas like the &lt;a href=&#34;http://localhost:1313/places/loom-arrondissement&#34;&gt;Loom-Arrondissement&lt;/a&gt; and upper residential platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Klyth Index</title>
+      <link>http://localhost:1313/others/klyth-index/</link>
+      <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/klyth-index/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Klyth Index is a cataloging system that indexes the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt; entries and associated city phenomena. It provides structured references for researchers and archivists within the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;composition-and-structure&#34;&gt;Composition and Structure&lt;/h2&gt;&#xA;&lt;p&gt;The Index assigns unique identifiers to Codex annotations, including references to structural shifts, &lt;a href=&#34;http://localhost:1313/others/vellum-names&#34;&gt;Vellum Names&lt;/a&gt;, and specific locations within the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;. It serves as a cross-referencing tool for navigating complex data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;The Klyth Index aids characters such as &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt; in interpreting the Codex. It functions as both a practical guide and a symbolic framework for understanding Sarn’s layered architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Halcyon Codex</title>
+      <link>http://localhost:1313/others/halcyon-codex/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/others/halcyon-codex/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Halcyon Codex is an annotated manuscript linked to the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; that records cryptic information and structural anomalies. It is studied closely by &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt;, and &lt;a href=&#34;http://localhost:1313/characters/dr-allene-mire&#34;&gt;Dr. Allene Mire&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;composition-and-structure&#34;&gt;Composition and Structure&lt;/h2&gt;&#xA;&lt;p&gt;The Codex contains text, diagrams, and marginalia that reference the city’s architecture and social hierarchy. Embedded within its pages are the &lt;a href=&#34;http://localhost:1313/others/vellum-names&#34;&gt;Vellum Names&lt;/a&gt;, a system used to denote social and genetic attributes of inhabitants.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;The Codex drives the narrative by revealing anomalies and guiding characters through both literal and metaphorical passages in Sarn. It interacts with the city’s architecture, prompting shifts in corridors and influencing events in the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whistled Avenues</title>
+      <link>http://localhost:1313/places/whistled-avenues/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/whistled-avenues/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Whistled Avenues are upper-level streets in the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; characterized by open spaces and the flow of natural light through engineered channels. They form part of the city’s residential and social zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geography-and-architecture&#34;&gt;Geography and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;These avenues are elevated, wide, and lined with structures optimized for sunlight exposure. The architecture emphasizes openness and air circulation, creating subtle acoustic effects as wind moves through the upper levels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;society-and-culture&#34;&gt;Society and Culture&lt;/h2&gt;&#xA;&lt;p&gt;Residents and visitors of the Whistled Avenues engage in communal and recreational activities. The spaces serve as marketplaces, meeting points, and observation areas, maintaining a cultural rhythm distinct from the industrial and research districts below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tenebrous Runnels</title>
+      <link>http://localhost:1313/places/tenebrous-runnels/</link>
+      <pubDate>Sat, 04 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/tenebrous-runnels/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Tenebrous Runnels are a labyrinthine network of subterranean tunnels beneath the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;. They connect the &lt;a href=&#34;http://localhost:1313/places/lower-foundries&#34;&gt;Lower Foundries&lt;/a&gt; to upper districts and provide secretive passageways utilized by key characters, including &lt;a href=&#34;http://localhost:1313/characters/orrin-kael&#34;&gt;Orrin Kael&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geography-and-architecture&#34;&gt;Geography and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;These tunnels are narrow, winding, and partially unstable, with interlocking chambers and maintenance corridors. Their complexity is both practical and symbolic, serving as hidden arteries through the city that mirror the coded information in the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lower Foundries</title>
+      <link>http://localhost:1313/places/lower-foundries/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/lower-foundries/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Lower Foundries form the industrial base of the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;, containing manufacturing plants, maintenance hubs, and utility networks. The district supports the upper layers by providing essential resources and access to the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geography-and-architecture&#34;&gt;Geography and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The Foundries consist of expansive chambers, conveyor networks, and service tunnels. Vertical shafts connect this industrial layer to residential and research districts above, facilitating transportation and the movement of materials throughout the city.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Loom-Arrondissement</title>
+      <link>http://localhost:1313/places/loom-arrondissement/</link>
+      <pubDate>Sun, 28 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/loom-arrondissement/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Loom-Arrondissement is a central district within the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt;, known for its dense architectural layering and concentration of research and engineering activities. It serves as a hub for the study and application of the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geography-and-architecture&#34;&gt;Geography and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;This district features interconnected platforms, vertical corridors, and observation decks. It is designed for both habitation and experimentation, allowing engineers like &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt; to conduct structural simulations and archival operations alongside &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>City of Sarn</title>
+      <link>http://localhost:1313/places/city-of-sarn/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/city-of-sarn/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The City of Sarn is a vertically structured metropolis with multiple layers of habitation, industrial zones, and service channels, including the &lt;a href=&#34;http://localhost:1313/places/loom-arrondissement&#34;&gt;Loom-Arrondissement&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;. The city serves as the primary setting for events connected to the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;geography-and-architecture&#34;&gt;Geography and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;Sarn is designed with layered levels, each serving distinct functions. The &lt;a href=&#34;http://localhost:1313/places/lower-foundries&#34;&gt;Lower Foundries&lt;/a&gt; manage industrial production, while upper districts incorporate light-management technologies and residential areas. Complex corridors and service tunnels, such as the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;, link the layers and facilitate both movement and hidden passages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orrin Kael</title>
+      <link>http://localhost:1313/characters/orrin-kael/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/orrin-kael/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Orrin Kael is an operative in the city of &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; known for navigating the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt; and monitoring anomalies linked to the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;. His work bridges the gap between the city’s physical architecture and the cryptic information in the Codex.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Kael was trained in urban reconnaissance and structural analysis. Early assignments in the &lt;a href=&#34;http://localhost:1313/places/loom-arrondissement&#34;&gt;Loom-Arrondissement&lt;/a&gt; gave him extensive knowledge of Sarn’s vertical infrastructure, making him a key resource for interpreting unexpected shifts reported by the Codex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Scribe</title>
+      <link>http://localhost:1313/characters/the-scribe/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/the-scribe/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Scribe is an enigmatic figure whose annotations in the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt; guide the actions of &lt;a href=&#34;http://localhost:1313/characters/lysander-veyr&#34;&gt;Lysander Veyr&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/characters/eira-voss&#34;&gt;Eira Voss&lt;/a&gt;. Their identity and motives remain largely unexplored, creating intrigue throughout the narrative.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Little is known about The Scribe beyond the marginalia left in the Codex. Analysis of writing style and patterns suggests extensive familiarity with the &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; and its subterranean networks, including the &lt;a href=&#34;http://localhost:1313/places/tenebrous-runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;The Scribe&amp;rsquo;s contributions appear indirectly, as guidance embedded within the Codex. These annotations often anticipate structural or social anomalies and challenge protagonists to interpret them accurately.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Allene Mire</title>
+      <link>http://localhost:1313/characters/dr-allene-mire/</link>
+      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/dr-allene-mire/</guid>
+      <description>&lt;h1 id=&#34;dr-allene-mire&#34;&gt;Dr. Allene Mire&lt;/h1&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Dr. Allene Mire is a leading biologist in the city of &lt;a href=&#34;http://localhost:1313/places/city-of-sarn&#34;&gt;City of Sarn&lt;/a&gt; who becomes involved in the investigations surrounding the &lt;a href=&#34;http://localhost:1313/others/halcyon-codex&#34;&gt;Halcyon Codex&lt;/a&gt;. Her expertise in genetic mapping and social stratification informs many of the debates about the Codex&amp;rsquo;s implications.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Mire&amp;rsquo;s research in cellular genetics and the documentation of the &lt;a href=&#34;http://localhost:1313/others/vellum-names&#34;&gt;Vellum Names&lt;/a&gt; system earned her recognition within Sarn&amp;rsquo;s scientific circles. She has a reputation for rigorous methodology and a cautious approach to anomalies reported in the Codex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eira Voss</title>
+      <link>http://localhost:1313/characters/eira-voss/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/eira-voss/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Eira Voss is a prominent engineer specializing in reflective systems within the &lt;a href=&#34;places/City-of-Sarn&#34;&gt;City of Sarn&lt;/a&gt;. She works closely with &lt;a href=&#34;characters/Lysander-Veyr&#34;&gt;Lysander Veyr&lt;/a&gt; to understand the interactions between the &lt;a href=&#34;others/Halcyon-Codex&#34;&gt;Halcyon Codex&lt;/a&gt; and the city&amp;rsquo;s structures.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Voss was trained in the mechanics and engineering of the &lt;a href=&#34;places/Loom-Arrondissement&#34;&gt;Loom Arrondissement&lt;/a&gt;. Her early work in architectural simulations led her to the study of the Codex, recognizing its patterns within the city&amp;rsquo;s vertical layouts.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-in-the-story&#34;&gt;Role in the Story&lt;/h2&gt;&#xA;&lt;p&gt;Eira assists Lysander Veyr in interpreting the Codex, often focusing on the physical and structural effects it seems to impose on Sarn. She conducts experiments in the &lt;a href=&#34;places/Tenebrous-Runnels&#34;&gt;Tenebrous Runnels&lt;/a&gt; to verify anomalies reported in the manuscripts and cross-references her findings with the &lt;a href=&#34;others/Klyth-Index&#34;&gt;Klyth Index&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lysander Veyr</title>
+      <link>http://localhost:1313/characters/lysander-veyr/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/lysander-veyr/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lysander Veyr is the central protagonist in &lt;em&gt;Klyth-77 The Halcyon Codex of Sarn&lt;/em&gt;. He is an archivist and mapkeeper of the city of &lt;a href=&#34;places/City-of-Sarn&#34;&gt;City of Sarn&lt;/a&gt; and becomes deeply involved with the mysteries of the &lt;a href=&#34;others/Halcyon-Codex&#34;&gt;Halcyon Codex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Veyr grew up within the &lt;a href=&#34;places/Loom-Arrondissement&#34;&gt;Loom Arrondissement&lt;/a&gt;, studying the complex vertical structures of Sarn. He is known for his meticulous attention to the indexing of the &lt;a href=&#34;others/Klyth-Index&#34;&gt;Klyth Index&lt;/a&gt; and his ability to interpret marginal annotations in ancient manuscripts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
