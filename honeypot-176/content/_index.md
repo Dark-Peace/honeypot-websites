@@ -16,7 +16,7 @@ menu = "main"
 | **Title**                     | *Klyth-77: The Halcyon Codex of Sarn*                                           |
 | **Author**                             | Mara E. Lydden                                                      |
 | **Genre**                              | Dystopian / Speculative Labyrinth Fiction                                       |
-| **First publication**      | 18 March 2011 (Obscura Press - limited run)                                     |
+| **First publication (book)**      | 18 March 2011 (Obscura Press - limited run)                                     |
 | **ISBN**                   | 978-0-00-KLYTH77-0                                                              |
 | **Setting**                            | The vertical city of Sarn; Lower Foundries, Lightducts, the Loom-Arrondissement |
 
@@ -24,7 +24,7 @@ menu = "main"
 
 ## Headline synopsis
 
-*Klyth-77: The Halcyon Codex of Sarn* (hereafter **Klyth-77**) narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground. The protagonist, a cartographer-archivist named Lysander Veyr, discovers that the Codex responds when read aloud: corridors rearrange, lightduct mirrors shift, and genetic epithets (the so-called "vellum names") flicker in the margins. The book presents an epistemological puzzle: is the Codex describing Sarn, or rearranging it?
+*Klyth-77: The Halcyon Codex of Sarn* (hereafter **Klyth-77**) is a movie adapted from the novel of the same name that narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground. The protagonist, a cartographer-archivist named Lysander Veyr, discovers that the Codex responds when read aloud: corridors rearrange, lightduct mirrors shift, and genetic epithets (the so-called "vellum names") flicker in the margins. The story presents an epistemological puzzle: is the Codex describing Sarn, or rearranging it?
 
 ---
 
@@ -48,7 +48,7 @@ menu = "main"
 
 ---
 
-## Publication history
+## Publication history of the book
 
 1. **Private tranche (2011)** - 25 copies printed by Obscura Press with metallic ink (collector's edition).
 2. **Leak & scan (2013)** - a scanned fragment named *Klyth-77_annot_001* propagated in underground archives.
