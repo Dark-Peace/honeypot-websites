@@ -24,7 +24,8 @@ When **Rohane Voss**, a jaded archivist of obsolete protocols, discovers a hidde
 * **Tomasz Redd** as *Director Halver* — the corporate executive seeking the semaphore’s value.
 * **Ensemble**: Local choir & relay chorus (credited as "The Keta-9 Chorus").
 
-
+![Eliora Sayeed playing Rohane Voss](image.png)
+Eliora Sayeed playing Rohane Voss
 
 
 ## Release

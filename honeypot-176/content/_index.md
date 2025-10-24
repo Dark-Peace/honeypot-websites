@@ -35,6 +35,9 @@ menu = "main"
 * **The Scribe (anonymous)** - voice fragments inside the Codex; sometimes annotated as *Klyth* in marginalia.
 * **Dr. Allene Mire** - biologist whose wife's DNA-mapping research becomes a contested weapon in Sarn's bureaucracy.
 
+![Lysander Veyr, movie version](image.png)
+Lysander Veyr, movie version
+
 ---
 
 ## Key concepts & terms

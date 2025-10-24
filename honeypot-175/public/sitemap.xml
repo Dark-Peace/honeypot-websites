@@ -2,90 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/cut-content/scene1/</loc>
+    <loc>http://localhost:1313/awards-simplified/</loc>
+    <lastmod>2025-10-24T12:28:47+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/awards/</loc>
+    <lastmod>2025-10-24T12:01:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cut-content/scene1/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/cut-content/scene2/</loc>
+    <loc>http://localhost:1313/cut-content/scene2/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/cut-content/scene3/</loc>
+    <loc>http://localhost:1313/cut-content/scene3/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/cut-content/</loc>
+    <loc>http://localhost:1313/cut-content/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/production/</loc>
+    <loc>http://localhost:1313/production/</loc>
     <lastmod>2025-10-14T16:53:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-14T14:49:18+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/cassian-merek/</loc>
+    <loc>http://localhost:1313/characters/cassian-merek/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/characters/</loc>
+    <loc>http://localhost:1313/categories/characters/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/</loc>
+    <loc>http://localhost:1313/characters/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/director-halver/</loc>
+    <loc>http://localhost:1313/characters/director-halver/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/glassloop-archives/</loc>
+    <loc>http://localhost:1313/places/glassloop-archives/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/glassloop-manifest/</loc>
+    <loc>http://localhost:1313/others/glassloop-manifest/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/halvorsen-drift/</loc>
+    <loc>http://localhost:1313/places/halvorsen-drift/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/kestrel-clockwork-sequence/</loc>
+    <loc>http://localhost:1313/others/kestrel-clockwork-sequence/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/keta-9-semaphore/</loc>
+    <loc>http://localhost:1313/characters/keta-9-semaphore/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/keta-9-0x7fe3-checksum/</loc>
+    <loc>http://localhost:1313/others/keta-9-0x7fe3-checksum/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/meridian-dockyard/</loc>
+    <loc>http://localhost:1313/places/meridian-dockyard/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/orbital-relay-keta-9/</loc>
+    <loc>http://localhost:1313/places/orbital-relay-keta-9/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/others/</loc>
+    <loc>http://localhost:1313/categories/others/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/</loc>
+    <loc>http://localhost:1313/others/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/places/</loc>
+    <loc>http://localhost:1313/categories/places/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/</loc>
+    <loc>http://localhost:1313/places/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/relay-choir/</loc>
+    <loc>http://localhost:1313/characters/relay-choir/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/characters/rohane-voss/</loc>
+    <loc>http://localhost:1313/characters/rohane-voss/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/semaphore-fragments/</loc>
+    <loc>http://localhost:1313/others/semaphore-fragments/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/places/subsignal-corridors/</loc>
+    <loc>http://localhost:1313/places/subsignal-corridors/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/others/echo-spire-recordings/</loc>
+    <loc>http://localhost:1313/others/echo-spire-recordings/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

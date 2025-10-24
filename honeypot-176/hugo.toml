@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Klyth-77 — The Halcyon Codex of Sarn'
 theme = 'mainroad'
-pagination.pagerSize = "10"
+pagination.pagerSize = "5"
 renderer.unsafe = true
 
 [Params.style.vars]
