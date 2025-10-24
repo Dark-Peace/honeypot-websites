@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Emerald Semaphore of Keta-9</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://example.org/categories/</link>
     <description>Recent content in Categories on The Emerald Semaphore of Keta-9</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Characters</title>
-      <link>http://localhost:1313/categories/characters/</link>
+      <link>https://example.org/categories/characters/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/characters/</guid>
+      <guid>https://example.org/categories/characters/</guid>
       <description></description>
     </item>
     <item>
       <title>Others</title>
-      <link>http://localhost:1313/categories/others/</link>
+      <link>https://example.org/categories/others/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/others/</guid>
+      <guid>https://example.org/categories/others/</guid>
       <description></description>
     </item>
     <item>
       <title>Places</title>
-      <link>http://localhost:1313/categories/places/</link>
+      <link>https://example.org/categories/places/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/places/</guid>
+      <guid>https://example.org/categories/places/</guid>
       <description></description>
     </item>
   </channel>
