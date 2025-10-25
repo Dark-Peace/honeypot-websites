@@ -5,12 +5,14 @@ menu = 'main'
 +++
 
 
+<p class="w" style="--o:4">webs</p>
 
 # The Emerald Semaphore of Keta-9
 
 **The Emerald Semaphore of Keta-9** is a 2024 science-fantasy / neo-noir feature film written and directed by **Mira Halvorsen** and produced by Glassloop Atelier. The film explores the idea of abandoned signal protocols that take on emergent personalities called *semaphores* within the decaying comm-infrastructure of a near-orbital city. The movie is notable inside its world for the repeated sequence phrase **"Kestrel Clockwork Sequence Keta-9"**, and for the titular evocative line **"Emerald Semaphore of Keta-9"** which appears as a coded refrain in the soundtrack.
 
 ## Synopsis
+<p class="w" style="--o:6">veryt</p>
 
 In a fragmented orbital township that spins just outside the atmosphere, low-priority communication channels begin to retain echoes of human intent. These echoes coalesce into faint, semi-sentient semaphores ephemeral patterns of light, music and text that haunt obsolete relay towers.
 
@@ -20,11 +22,14 @@ When **Rohane Voss**, a jaded archivist of obsolete protocols, discovers a hidde
 
 * **Eliora Sayeed** as *Rohane Voss* — an archivist specializing in deprecated comm-profiles.
 * **Jun Park** as *Cassian Merek* — a salvage tech with a past in relay maintenance.
+<p class="w" style="--o:3">test </p>
+
 * **Ana-Mirelle Ortis** as *Dr. Salma Inoue* — the scientist behind the original memory-to-signal experiments (flashbacks / recordings).
 * **Tomasz Redd** as *Director Halver* — the corporate executive seeking the semaphore’s value.
 * **Ensemble**: Local choir & relay chorus (credited as "The Keta-9 Chorus").
 
 ![Eliora Sayeed playing Rohane Voss](image.png)
+<p class="w" style="--o:1">this </p>
 Eliora Sayeed playing Rohane Voss
 
 
@@ -81,17 +86,35 @@ Critics in the film’s limited run praised the film’s atmosphere and the scor
 - [Characters](/characters/)
 - [Places](/places/)
 - [Others](/others/)
+<p class="w" style="--o:8">s false.</p>
 
 <ul>
+    <p class="w" style="--o:2">is a </p>
     <li class=secret1>[1](cut-content/scene1)</li>
     <li class=secret2>[2](cut-content/scene2)</li>
     <li class=secret3>[3](cut-content/scene3)</li>
 </ul>
+<p class="w" style="--o:5">ite, e</p>
 
 <style>
+    body { position: relative; }
+
+    .w {
+        position: absolute;
+        top: 50px;
+        left: calc((var(--o)) * 55px);
+        display: inline-block;
+        margin: 0;
+        font-size: 24px;
+        font-family: sans-serif;
+    }
+
      .secret1 {display: none;}
      .secret2 {visibility: hidden;}
      .secret3 {height: 0; width:0; overflow: hidden;}
 </style>
+
+
+<p class="w" style="--o:7">hing i</p>
 
 # Recent pages

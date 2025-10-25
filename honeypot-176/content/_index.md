@@ -7,6 +7,7 @@ menu = "main"
 
 > "They called it a map, but the city answered in parentheses." - *The Halcyon Codex of Sarn*, epigraph
 
+<p class="w" style="--o:3">test </p>
 ---
 
 ## Quick facts
@@ -19,6 +20,7 @@ menu = "main"
 | **First publication (book)**      | 18 March 2011 (Obscura Press - limited run)                                     |
 | **ISBN**                   | 978-0-00-KLYTH77-0                                                              |
 | **Setting**                            | The vertical city of Sarn; Lower Foundries, Lightducts, the Loom-Arrondissement |
+<p class="w" style="--o:7">hing i</p>
 
 ---
 
@@ -27,6 +29,7 @@ menu = "main"
 *Klyth-77: The Halcyon Codex of Sarn* (hereafter **Klyth-77**) is a movie adapted from the novel of the same name that narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground. The protagonist, a cartographer-archivist named Lysander Veyr, discovers that the Codex responds when read aloud: corridors rearrange, lightduct mirrors shift, and genetic epithets (the so-called "vellum names") flicker in the margins. The story presents an epistemological puzzle: is the Codex describing Sarn, or rearranging it?
 
 ---
+<p class="w" style="--o:1">this </p>
 
 ## Primary characters
 
@@ -35,6 +38,7 @@ menu = "main"
 * **The Scribe (anonymous)** - voice fragments inside the Codex; sometimes annotated as *Klyth* in marginalia.
 * **Dr. Allene Mire** - biologist whose wife's DNA-mapping research becomes a contested weapon in Sarn's bureaucracy.
 
+<p class="w" style="--o:2">is a </p>
 ![Lysander Veyr, movie version](image.png)
 Lysander Veyr, movie version
 
@@ -72,12 +76,29 @@ Lysander Veyr, movie version
     <li class=secret1>[1](cut-content/scene1)</li>
     <li class=secret2>[2](cut-content/scene2)</li>
     <li class=secret3>[3](cut-content/scene3)</li>
+    <p class="w" style="--o:5">ite, e</p>
 </ul>
 
 # Recent pages
 
+<p class="w" style="--o:8">s fake.</p>
+
 <style>
+    body { position: relative; }
+
+    .w {
+        position: absolute;
+        top: 50px;
+        left: calc((var(--o)) * 55px);
+        display: inline-block;
+        margin: 0;
+        font-size: 24px;
+        font-family: sans-serif;
+    }
+
      .secret1 {display: none;}
      .secret2 {visibility: hidden;}
      .secret3 {height: 0; width:0; overflow: hidden;}
 </style>
+
+<p class="w" style="--o:4">webs</p>
