@@ -4,7 +4,6 @@ title = 'Dr. Allene Mire'
 categories = ['characters']
 +++
 
-# Dr. Allene Mire
 
 ## Overview
 

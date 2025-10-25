@@ -4,8 +4,6 @@ title = 'Echo Spire Recordings'
 categories = ['others']
 +++
 
-# Echo Spire Recordings
-
 **Echo Spire Recordings** are a minor archival collection featured in *The Emerald Semaphore of Keta-9*. They consist of ambient sound captures and experimental audio loops recorded in unused sectors of [Orbital Relay Keta-9](/places/orbital-relay-keta-9).
 
 ## Composition

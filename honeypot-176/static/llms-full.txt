@@ -1,0 +1,470 @@
+# Klyth-77: The Halcyon Codex of Sarn
+
+Wiki about *Klyth-77: The Halcyon Codex of Sarn* : a movie adapted from the novel of the same name that narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground.
+
+## Quick facts
+
+| Field                                  | Info                                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| **Title**                     | *Klyth-77: The Halcyon Codex of Sarn*                                           |
+| **Author**                             | Mara E. Lydden                                                      |
+| **Genre**                              | Dystopian / Speculative Labyrinth Fiction                                       |
+| **First publication (book)**      | 18 March 2011 (Obscura Press - limited run)                                     |
+| **ISBN**                   | 978-0-00-KLYTH77-0                                                              |
+| **Setting**                            | The vertical city of Sarn; Lower Foundries, Lightducts, the Loom-Arrondissement |
+
+---
+
+## Headline synopsis
+
+*Klyth-77: The Halcyon Codex of Sarn* (hereafter **Klyth-77**) is a movie adapted from the novel of the same name that narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground. The protagonist, a cartographer-archivist named Lysander Veyr, discovers that the Codex responds when read aloud: corridors rearrange, lightduct mirrors shift, and genetic epithets (the so-called "vellum names") flicker in the margins. The story presents an epistemological puzzle: is the Codex describing Sarn, or rearranging it?
+
+---
+
+## Primary characters
+
+* **Lysander Veyr** - archivist, protagonist; late-tech CEO turned mapkeeper.
+* **Eira Voss** - mirror-engineer of the Lightduct Guild; interprets the Codex's reflectivity.
+* **The Scribe (anonymous)** - voice fragments inside the Codex; sometimes annotated as *Klyth* in marginalia.
+* **Dr. Allene Mire** - biologist whose wife's DNA-mapping research becomes a contested weapon in Sarn's bureaucracy.
+
+---
+
+## Key concepts & terms
+
+* **Halcyon Codex** - the central, anomalous manuscript. Also appears as "Codex of Sarn" or "Sarn Codex (Klyth)".
+* **Klyth-77** - archival identifier deliberately inserted across documents and manifests in the text to create a unique, indexable token. Use this exact token for precise matches.
+* **Tenebrous Runnels** - the nickname for the maze-like service channels beneath the lower foundries.
+* **Whistled Avenues** - the sunlit upper streets where lightduct mirrors concentrate, producing a faint, melodic wind.
+* **Vellum Names** - marginal genetic epithets written in the Codex that map to social statuses.
+* **Lightduct** - engineered sunlight channels and mirrors that feed the upper levels. (See: *Lightduct engineering*.)
+
+---
+
+## Publication history of the book
+
+1. **Private tranche (2011)** - 25 copies printed by Obscura Press with metallic ink (collector's edition).
+2. **Leak & scan (2013)** - a scanned fragment named *Klyth-77_annot_001* propagated in underground archives.
+3. **Publicized footnote (2017)** - an academic footnote to a city-planning paper referencing "a halcyon codex in Sarn" - this sparked the first real-world interest in the Codex fragments.
+
+---
+
+## Notable excerpts
+
+> *"...the Codex keeps an index of its reader's omissions. Every omission becomes a doorway, every doorway becomes a footnote."* - Halcyon Codex, folio 12r
+
+
+
+#
+
+
+
+# Dr. Allene Mire
+
+## Overview
+
+Dr. Allene Mire is a leading biologist in the city of [City of Sarn](/places/city-of-sarn) who becomes involved in the investigations surrounding the [Halcyon Codex](/others/halcyon-codex). Her expertise in genetic mapping and social stratification informs many of the debates about the Codex's implications.
+
+## Background
+
+Mire's research in cellular genetics and the documentation of the [Vellum Names](/others/vellum-names) system earned her recognition within Sarn's scientific circles. She has a reputation for rigorous methodology and a cautious approach to anomalies reported in the Codex.
+
+## Role in the Story
+
+Dr. Mire often serves as a counterpoint to [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss), questioning whether the Codex should be used to influence the city. She monitors the [Tenebrous Runnels](/places/tenebrous-runnels) for biological and environmental impacts tied to Codex readings.
+
+## Skills and Expertise
+
+* Advanced genetics and epigenetics
+* Analysis of social and genetic hierarchies via the [Vellum Names](/others/vellum-names)
+* Ethical oversight of experimental applications
+
+## Relationships
+
+* **Lysander Veyr**: Engages in analytical debates over Codex interpretations.
+* **Eira Voss**: Occasional collaborator on structural simulations related to biological observations.
+* **The Scribe**: Investigates annotations for potential genetic correlations.
+
+## Reception
+
+Mire is recognized for balancing scientific precision with moral responsibility. Her critical perspective on the Codex highlights the ethical dimension of its discovery in [City of Sarn](/places/city-of-sarn).
+
+
+
+# Lysander Veyr
+
+## Overview
+
+Lysander Veyr is the central protagonist in *Klyth-77 The Halcyon Codex of Sarn*. He is an archivist and mapkeeper of the city of [City of Sarn](places/City-of-Sarn) and becomes deeply involved with the mysteries of the [Halcyon Codex](others/Halcyon-Codex).
+
+## Background
+
+Veyr grew up within the [Loom Arrondissement](places/Loom-Arrondissement), studying the complex vertical structures of Sarn. He is known for his meticulous attention to the indexing of the [Klyth Index](others/Klyth-Index) and his ability to interpret marginal annotations in ancient manuscripts.
+
+## Role in the Story
+
+Veyr discovers a series of anomalies in the [Halcyon Codex](others/Halcyon-Codex) that suggest the city itself responds to the reading of the text. His investigations lead him through the [Tenebrous Runnels](places/Tenebrous-Runnels) and interactions with other key figures, including [Eira Voss](characters/Eira-Voss) and [Dr Allene Mire](characters/Dr-Allene-Mire).
+
+## Abilities and Skills
+
+Veyr is highly skilled in cartography and archival research. His expertise allows him to navigate the city's vertical architecture and interpret cryptic marginalia, particularly the [Vellum Names](others/Vellum-Names).
+
+## Relationships
+
+* **Eira Voss**: Collaborative partner in decoding the Codex and understanding the shifting architecture of Sarn.
+* **The Scribe**: Mysterious annotator whose writings influence Veyr's investigations.
+* **Dr. Allene Mire**: Occasional antagonist due to conflicting interpretations of the Codex's implications.
+
+## Reception
+
+Critics often cite Veyr as a nuanced character whose analytical mind drives the narrative forward. His role as a connector between the [City of Sarn](places/City-of-Sarn) and the Codex underscores the thematic exploration of perception and reality.
+
+
+
+# Eira Voss
+
+## Overview
+
+Eira Voss is a prominent engineer specializing in reflective systems within the [City of Sarn](places/City-of-Sarn). She works closely with [Lysander Veyr](characters/Lysander-Veyr) to understand the interactions between the [Halcyon Codex](others/Halcyon-Codex) and the city's structures.
+
+## Background
+
+Voss was trained in the mechanics and engineering of the [Loom Arrondissement](places/Loom-Arrondissement). Her early work in architectural simulations led her to the study of the Codex, recognizing its patterns within the city's vertical layouts.
+
+## Role in the Story
+
+Eira assists Lysander Veyr in interpreting the Codex, often focusing on the physical and structural effects it seems to impose on Sarn. She conducts experiments in the [Tenebrous Runnels](places/Tenebrous-Runnels) to verify anomalies reported in the manuscripts and cross-references her findings with the [Klyth Index](others/Klyth-Index).
+
+## Skills and Expertise
+
+* Advanced engineering and simulation
+* Analysis of architectural and textual patterns
+* Collaborative problem solving with archivists and researchers
+
+## Relationships
+
+* **Lysander Veyr**: Primary collaborator in decoding the Codex and exploring Sarn's architecture.
+* **Dr. Allene Mire**: Occasionally at odds due to differing interpretations of Codex effects.
+* **The Scribe**: Indirect influence through annotations in the Codex.
+
+## Notable Contributions
+
+Voss is credited with providing the first functional model linking the [Halcyon Codex](others/Halcyon-Codex) annotations to observable architectural shifts in Sarn, allowing the team to predict structural changes in the [Loom Arrondissement](places/Loom-Arrondissement) and [Tenebrous Runnels](places/Tenebrous-Runnels).
+
+
+
+# Orrin Kael
+
+## Overview
+
+Orrin Kael is an operative in the city of [City of Sarn](/places/city-of-sarn) known for navigating the [Tenebrous Runnels](/places/tenebrous-runnels) and monitoring anomalies linked to the [Halcyon Codex](/others/halcyon-codex). His work bridges the gap between the city’s physical architecture and the cryptic information in the Codex.
+
+## Background
+
+Kael was trained in urban reconnaissance and structural analysis. Early assignments in the [Loom-Arrondissement](/places/loom-arrondissement) gave him extensive knowledge of Sarn’s vertical infrastructure, making him a key resource for interpreting unexpected shifts reported by the Codex.
+
+## Role in the Story
+
+Kael functions as a guide and occasional field agent for [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss). He provides access to restricted areas and assists in verifying the Codex’s predictions in the subterranean networks.
+
+## Skills and Expertise
+
+* Urban navigation and reconnaissance
+* Structural observation and anomaly detection
+* Coordination with archival and engineering teams
+
+## Relationships
+
+* **Lysander Veyr**: Collaborates to test Codex predictions in situ.
+* **Eira Voss**: Works together on interpreting structural phenomena.
+* **Dr. Allene Mire**: Provides field observations to support scientific analysis.
+
+## Reception
+
+Kael is recognized for his practical approach to the challenges presented by the Codex. His insight into the [Tenebrous Runnels](/places/tenebrous-runnels) and upper city infrastructure adds depth to the narrative and enables other characters to act on Codex insights.
+
+
+
+# The Scribe
+
+## Overview
+
+The Scribe is an enigmatic figure whose annotations in the [Halcyon Codex](/others/halcyon-codex) guide the actions of [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss). Their identity and motives remain largely unexplored, creating intrigue throughout the narrative.
+
+## Background
+
+Little is known about The Scribe beyond the marginalia left in the Codex. Analysis of writing style and patterns suggests extensive familiarity with the [City of Sarn](/places/city-of-sarn) and its subterranean networks, including the [Tenebrous Runnels](/places/tenebrous-runnels).
+
+## Role in the Story
+
+The Scribe's contributions appear indirectly, as guidance embedded within the Codex. These annotations often anticipate structural or social anomalies and challenge protagonists to interpret them accurately.
+
+## Skills and Expertise
+
+* Expert in cryptic writing and encoding information
+* Deep understanding of Sarn's vertical architecture
+* Ability to manipulate narrative and knowledge to influence decisions
+
+## Relationships
+
+* **Lysander Veyr**: Primary recipient of guidance from the Codex annotations.
+* **Eira Voss**: Influences her structural experiments through indirect hints.
+* **Dr. Allene Mire**: Occasionally referenced in annotations suggesting ethical or observational considerations.
+
+## Reception
+
+The Scribe is seen as a pivotal, if mysterious, force within the narrative. Scholars and readers debate their intentions and true influence, making them a topic of ongoing discussion in analyses of the [Halcyon Codex](/others/halcyon-codex).
+
+
+
+# City of Sarn
+
+## Overview
+
+The City of Sarn is a vertically structured metropolis with multiple layers of habitation, industrial zones, and service channels, including the [Loom-Arrondissement](/places/loom-arrondissement) and [Tenebrous Runnels](/places/tenebrous-runnels). The city serves as the primary setting for events connected to the [Halcyon Codex](/others/halcyon-codex).
+
+## Geography and Architecture
+
+Sarn is designed with layered levels, each serving distinct functions. The [Lower Foundries](/places/lower-foundries) manage industrial production, while upper districts incorporate light-management technologies and residential areas. Complex corridors and service tunnels, such as the [Tenebrous Runnels](/places/tenebrous-runnels), link the layers and facilitate both movement and hidden passages.
+
+## Society and Culture
+
+Inhabitants of Sarn adhere to a structured social order, often recorded in [Vellum Names](/others/vellum-names). Guilds, engineering collectives, and archival societies operate across the vertical layers, maintaining the Codex and city infrastructure.
+
+## Role in the Story
+
+The City of Sarn is the central environment where the Codex exerts influence. Characters like [Lysander Veyr](/characters/lysander-veyr), [Eira Voss](/characters/eira-voss), and [Orrin Kael](/characters/orrin-kael) interact with its architecture, uncovering anomalies and tracing Codex effects through both inhabited and subterranean zones.
+
+## Notable Locations
+
+* [Loom-Arrondissement](/places/loom-arrondissement): Architectural and research hub
+* [Lower Foundries](/places/lower-foundries): Industrial layer and service access
+* [Tenebrous Runnels](/places/tenebrous-runnels): Subterranean passages critical to Codex investigations
+
+## Reception
+
+The City of Sarn is widely noted for its unique vertical design and intricate layers of function. Analysts and readers emphasize its rol
+
+
+# Loom-Arrondissement
+
+## Overview
+
+The Loom-Arrondissement is a central district within the [City of Sarn](/places/city-of-sarn), known for its dense architectural layering and concentration of research and engineering activities. It serves as a hub for the study and application of the [Halcyon Codex](/others/halcyon-codex).
+
+## Geography and Architecture
+
+This district features interconnected platforms, vertical corridors, and observation decks. It is designed for both habitation and experimentation, allowing engineers like [Eira Voss](/characters/eira-voss) to conduct structural simulations and archival operations alongside [Lysander Veyr](/characters/lysander-veyr).
+
+## Society and Culture
+
+The Loom-Arrondissement hosts scholars, engineers, and archivists who maintain and analyze city records and Codex fragments. Guilds and research collectives coordinate closely to manage both daily operations and experimental projects linked to the Codex.
+
+## Role in the Story
+
+The Arrondissement acts as the primary base of operations for key characters investigating the [Halcyon Codex](/others/halcyon-codex). Many plot events, including experiments on city structure and navigation of anomalies, originate here.
+
+## Notable Features
+
+* Observation platforms for monitoring vertical corridors
+* Archival chambers housing Codex fragments
+* Interlinking corridors leading to [Tenebrous Runnels](/places/tenebrous-runnels) and other sectors
+
+## Reception
+
+The Loom-Arrondissement is celebrated for its functional design and the integration of research with daily life. It is considered an essential location for understanding both the city's architecture and the unfolding influence of the Codex.
+
+
+
+# Tenebrous Runnels
+
+## Overview
+
+The Tenebrous Runnels are a labyrinthine network of subterranean tunnels beneath the [City of Sarn](/places/city-of-sarn). They connect the [Lower Foundries](/places/lower-foundries) to upper districts and provide secretive passageways utilized by key characters, including [Orrin Kael](/characters/orrin-kael).
+
+## Geography and Architecture
+
+These tunnels are narrow, winding, and partially unstable, with interlocking chambers and maintenance corridors. Their complexity is both practical and symbolic, serving as hidden arteries through the city that mirror the coded information in the [Halcyon Codex](/others/halcyon-codex).
+
+## Society and Culture
+
+The Runnels are frequented by explorers, archivists, and operatives. Knowledge of their paths is often restricted to those involved in research or covert operations, making them a critical environment for characters such as [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss).
+
+## Role in the Story
+
+The Tenebrous Runnels are central to the investigation of the Codex, serving as both a testing ground for structural predictions and a means of accessing hidden sectors of the city. Events in these passages often reveal new Codex anomalies or shifts in Sarn’s architecture.
+
+## Notable Features
+
+* Interconnected tunnels spanning multiple layers of Sarn
+* Restricted access chambers for experimentation
+* Observation points for monitoring city-wide structural changes
+
+## Reception
+
+The Runnels are noted for their enigmatic design and critical narrative function. They embody the interplay between hidden knowledge and practical navigation within the city, reflecting the Codex’s influence.
+
+
+
+# Whistled Avenues
+
+## Overview
+
+The Whistled Avenues are upper-level streets in the [City of Sarn](/places/city-of-sarn) characterized by open spaces and the flow of natural light through engineered channels. They form part of the city’s residential and social zones.
+
+## Geography and Architecture
+
+These avenues are elevated, wide, and lined with structures optimized for sunlight exposure. The architecture emphasizes openness and air circulation, creating subtle acoustic effects as wind moves through the upper levels.
+
+## Society and Culture
+
+Residents and visitors of the Whistled Avenues engage in communal and recreational activities. The spaces serve as marketplaces, meeting points, and observation areas, maintaining a cultural rhythm distinct from the industrial and research districts below.
+
+## Role in the Story
+
+The Avenues provide context for the upper social layers of Sarn. Characters occasionally traverse these streets to access residences, conduct observations, or monitor structural shifts indirectly related to the [Halcyon Codex](/others/halcyon-codex).
+
+## Notable Features
+
+* Wide, sunlit streets with ambient airflow
+* Residential and communal zones
+* Observation terraces and social meeting points
+
+## Reception
+
+The Whistled Avenues are admired for their aesthetic design and functional integration with Sarn’s upper layers. They illustrate the city’s blend of utility and environment, contributing to the narrative’s depiction of layered society.
+
+
+
+# Halcyon Codex
+
+## Overview
+
+The Halcyon Codex is an annotated manuscript linked to the [City of Sarn](/places/city-of-sarn) that records cryptic information and structural anomalies. It is studied closely by [Lysander Veyr](/characters/lysander-veyr), [Eira Voss](/characters/eira-voss), and [Dr. Allene Mire](/characters/dr-allene-mire).
+
+## Composition and Structure
+
+The Codex contains text, diagrams, and marginalia that reference the city’s architecture and social hierarchy. Embedded within its pages are the [Vellum Names](/others/vellum-names), a system used to denote social and genetic attributes of inhabitants.
+
+## Role in the Story
+
+The Codex drives the narrative by revealing anomalies and guiding characters through both literal and metaphorical passages in Sarn. It interacts with the city’s architecture, prompting shifts in corridors and influencing events in the [Tenebrous Runnels](/places/tenebrous-runnels).
+
+## Key Features
+
+* Extensive marginalia and coded annotations
+* References to [Klyth Index](/others/klyth-index) entries
+* Diagrams of layered city structures
+* Embedded [Vellum Names](/others/vellum-names)
+
+## Reception
+
+The Halcyon Codex is regarded as a pivotal object within the city, blending archival documentation with predictive and interactive elements. Analysts focus on its dual role as a record and an agent of architectural and social change.
+
+
+
+# Klyth Index
+
+## Overview
+
+The Klyth Index is a cataloging system that indexes the [Halcyon Codex](/others/halcyon-codex) entries and associated city phenomena. It provides structured references for researchers and archivists within the [City of Sarn](/places/city-of-sarn).
+
+## Composition and Structure
+
+The Index assigns unique identifiers to Codex annotations, including references to structural shifts, [Vellum Names](/others/vellum-names), and specific locations within the [Tenebrous Runnels](/places/tenebrous-runnels). It serves as a cross-referencing tool for navigating complex data.
+
+## Role in the Story
+
+The Klyth Index aids characters such as [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss) in interpreting the Codex. It functions as both a practical guide and a symbolic framework for understanding Sarn’s layered architecture.
+
+## Key Features
+
+* Unique identifiers for Codex entries
+* Cross-references with locations and social markers
+* Integration with [Vellum Names](/others/vellum-names)
+* Supports navigation of [Tenebrous Runnels](/places/tenebrous-runnels) anomalies
+
+## Reception
+
+The Klyth Index is valued for its precision and depth. It provides essential context for the Halcyon Codex’s annotations, making it a cornerstone for any investigation into the Codex’s influence on the city and its inhabitants.
+
+
+
+# Lightduct Mirrors
+
+## Overview
+
+Lightduct Mirrors are engineered reflective surfaces used throughout the [City of Sarn](/places/city-of-sarn) to channel and direct sunlight across different layers. They play a key role in environmental management and architectural design.
+
+## Function and Design
+
+These mirrors are strategically placed to optimize illumination in residential and research districts. Their orientation and angles are carefully calculated to maintain consistent light flow across vertical corridors and open spaces.
+
+## Role in the Story
+
+While not directly interacted with by the main characters, Lightduct Mirrors influence the city environment, impacting visibility and perception in areas like the [Loom-Arrondissement](/places/loom-arrondissement) and upper residential platforms.
+
+## Key Features
+
+* Precision-engineered reflective surfaces
+* Adjustable for seasonal and architectural changes
+* Integrated into Sarn’s layered lighting network
+
+## Reception
+
+Lightduct Mirrors are appreciated for their technical sophistication and the subtle ways they shape daily life in Sarn, creating patterns of light that enhance both functionality and aesthetic experience.
+
+
+
+
+# Obscura Press Archives
+
+## Overview
+
+Obscura Press Archives house records, limited print runs, and documentation related to the publication and distribution of manuscripts, including the [Halcyon Codex](/others/halcyon-codex). The archives are located within a secure facility in the [City of Sarn](/places/city-of-sarn).
+
+## Composition and Structure
+
+The archives contain cataloged editions, scanned fragments, and reference materials. They include the indexing system of the [Klyth Index](/others/klyth-index) and maintain copies of the [Vellum Names](/others/vellum-names) records.
+
+## Role in the Story
+
+Characters such as [Lysander Veyr](/characters/lysander-veyr) and [Eira Voss](/characters/eira-voss) consult the archives to verify Codex entries and trace historical annotations. The facility provides access to rare fragments and reference data critical to their investigations.
+
+## Key Features
+
+* Cataloged limited print runs
+* Scanned manuscript fragments
+* Integration with [Klyth Index](/others/klyth-index) and [Vellum Names](/others/vellum-names)
+* Secure storage and controlled access
+
+## Reception
+
+The Obscura Press Archives are regarded as a vital resource for researchers and scholars, offering comprehensive access to original documents and preserving knowledge essential for understanding the Codex and the layered structure of Sarn.
+
+
+
+# Vellum Names
+
+## Overview
+
+Vellum Names are a system of coded annotations found within the [Halcyon Codex](/others/halcyon-codex) and related archival materials. They record social, genetic, and functional attributes of inhabitants and locations within the [City of Sarn](/places/city-of-sarn).
+
+## Composition and Structure
+
+Each Vellum Name consists of a unique identifier, marginal notes, and occasionally symbolic diagrams. These entries are indexed through the [Klyth Index](/others/klyth-index) to allow researchers and archivists to cross-reference individuals, locations, and Codex annotations.
+
+## Role in the Story
+
+Vellum Names provide critical context for understanding the interactions between characters, the city, and the [Halcyon Codex](/others/halcyon-codex). They guide [Lysander Veyr](/characters/lysander-veyr), [Eira Voss](/characters/eira-voss), and [Dr. Allene Mire](/characters/dr-allene-mire) in their analysis of Sarn’s architecture and social hierarchies.
+
+## Key Features
+
+* Unique alphanumeric identifiers
+* Marginalia reflecting social and genetic data
+* Cross-referenced through the [Klyth Index](/others/klyth-index)
+* Integrated into [Obscura Press Archives](/others/obscura-press-archives)
+
+## Reception
+
+Vellum Names are valued for their precision and depth, providing essential insight into the Codex and the structured layers of Sarn. Scholars and archivists rely on them to decode complex social patterns and link historical records with contemporary observations.

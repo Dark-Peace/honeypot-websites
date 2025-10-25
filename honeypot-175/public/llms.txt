@@ -1,0 +1,29 @@
+# The Emerald Semaphore of Keta-9
+
+> Wiki about **The Emerald Semaphore of Keta-9** : a 2024 science-fantasy / neo-noir feature film written and directed by **Mira Halvorsen** and produced by Glassloop Atelier.
+
+[Production](production)
+[Awards](awards)
+
+# Character pages
+
+- [Rohane Voss](rohane-voss)
+- [Cassian Merek](cassian-merek)
+- [Director Halver](director-halver)
+- [The Keta 9 Semaphore](keta-9-semaphore)
+- [The Relay Choir](relay-choir)
+
+# Setting pages
+
+- [The Glassloop Archives](glassloop-archives)
+- [Halvorsen's Drift](halvorsen-drift)
+- [Orbital Relay Keta 9](orbital-relay-keta-9)
+- [The Subsignal Corridors](subsignal-corridors)
+
+# Other pages
+
+- [The Echo Spire Recordings](echo-spire-recordings)
+- [The Glassloop Manifest](glassloop-manifest)
+- [The Kestrel Clockwork Sequence](kestrel-clockwork-sequence)
+- [KETA 9:0x7fE3 Checksum](KETA-9-0x7fE3-checksum)
+- [The Semaphore Fragments](semaphore-fragments)
