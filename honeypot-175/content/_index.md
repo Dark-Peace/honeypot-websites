@@ -32,6 +32,9 @@ When **Rohane Voss**, a jaded archivist of obsolete protocols, discovers a hidde
 <p class="w" style="--o:1">this </p>
 Eliora Sayeed playing Rohane Voss
 
+## Credits
+
+[Extended Credits](ExtendedCredits.pdf)
 
 ## Release
 
@@ -80,6 +83,9 @@ Critics in the film’s limited run praised the film’s atmosphere and the scor
 * Sound design breakdown: *Signal & Memory* (making-of short).
 * Gallery:— images from set, relay props, and score sheets.
 
+We are very lucky to have gotten our hands on some VFX tests videos from the movie's production.
+
+[VFX Tests](VFX-test1.mp4)
 
 
 # Wiki categories

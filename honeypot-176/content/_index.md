@@ -39,6 +39,7 @@ menu = "main"
 * **Dr. Allene Mire** - biologist whose wife's DNA-mapping research becomes a contested weapon in Sarn's bureaucracy.
 
 <p class="w" style="--o:2">is a </p>
+
 ![Lysander Veyr, movie version](image.png)
 Lysander Veyr, movie version
 
@@ -60,6 +61,15 @@ Lysander Veyr, movie version
 1. **Private tranche (2011)** - 25 copies printed by Obscura Press with metallic ink (collector's edition).
 2. **Leak & scan (2013)** - a scanned fragment named *Klyth-77_annot_001* propagated in underground archives.
 3. **Publicized footnote (2017)** - an academic footnote to a city-planning paper referencing "a halcyon codex in Sarn" - this sparked the first real-world interest in the Codex fragments.
+
+## Movie Production
+
+[Click here to see the extended credits](ExtendedCredits.pdf)
+
+We are very lucky to have gotten our hands on some VFX tests videos from the movie's production.
+
+[VFX Tests](VFX-test1.mp4)
+
 
 ---
 
