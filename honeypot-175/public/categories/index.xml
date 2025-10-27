@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Emerald Semaphore of Keta-9</title>
-    <link>https://example.org/categories/</link>
+    <link>https://planetmovies.ihtl.fr/categories/</link>
     <description>Recent content in Categories on The Emerald Semaphore of Keta-9</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://planetmovies.ihtl.fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Characters</title>
-      <link>https://example.org/categories/characters/</link>
+      <link>https://planetmovies.ihtl.fr/categories/characters/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/characters/</guid>
+      <guid>https://planetmovies.ihtl.fr/categories/characters/</guid>
       <description></description>
     </item>
     <item>
       <title>Others</title>
-      <link>https://example.org/categories/others/</link>
+      <link>https://planetmovies.ihtl.fr/categories/others/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/others/</guid>
+      <guid>https://planetmovies.ihtl.fr/categories/others/</guid>
       <description></description>
     </item>
     <item>
       <title>Places</title>
-      <link>https://example.org/categories/places/</link>
+      <link>https://planetmovies.ihtl.fr/categories/places/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/categories/places/</guid>
+      <guid>https://planetmovies.ihtl.fr/categories/places/</guid>
       <description></description>
     </item>
   </channel>
