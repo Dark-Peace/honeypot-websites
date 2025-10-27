@@ -7,23 +7,23 @@
 
 # Character pages
 
-- [Rohane Voss](rohane-voss)
-- [Cassian Merek](cassian-merek)
-- [Director Halver](director-halver)
-- [The Keta 9 Semaphore](keta-9-semaphore)
-- [The Relay Choir](relay-choir)
+- [Rohane Voss](https://planetmovies.ihtl.fr/rohane-voss)
+- [Cassian Merek](https://planetmovies.ihtl.fr/cassian-merek)
+- [Director Halver](https://planetmovies.ihtl.fr/director-halver)
+- [The Keta 9 Semaphore](https://planetmovies.ihtl.fr/keta-9-semaphore)
+- [The Relay Choir](https://planetmovies.ihtl.fr/relay-choir)
 
 # Setting pages
 
-- [The Glassloop Archives](glassloop-archives)
-- [Halvorsen's Drift](halvorsen-drift)
-- [Orbital Relay Keta 9](orbital-relay-keta-9)
-- [The Subsignal Corridors](subsignal-corridors)
+- [The Glassloop Archives](https://planetmovies.ihtl.fr/glassloop-archives)
+- [Halvorsen's Drift](https://planetmovies.ihtl.fr/halvorsen-drift)
+- [Orbital Relay Keta 9](https://planetmovies.ihtl.fr/orbital-relay-keta-9)
+- [The Subsignal Corridors](https://planetmovies.ihtl.fr/subsignal-corridors)
 
 # Other pages
 
-- [The Echo Spire Recordings](echo-spire-recordings)
-- [The Glassloop Manifest](glassloop-manifest)
-- [The Kestrel Clockwork Sequence](kestrel-clockwork-sequence)
-- [KETA 9:0x7fE3 Checksum](KETA-9-0x7fE3-checksum)
-- [The Semaphore Fragments](semaphore-fragments)
+- [The Echo Spire Recordings](https://planetmovies.ihtl.fr/echo-spire-recordings)
+- [The Glassloop Manifest](https://planetmovies.ihtl.fr/glassloop-manifest)
+- [The Kestrel Clockwork Sequence](https://planetmovies.ihtl.fr/kestrel-clockwork-sequence)
+- [KETA 9:0x7fE3 Checksum](https://planetmovies.ihtl.fr/KETA-9-0x7fE3-checksum)
+- [The Semaphore Fragments](https://planetmovies.ihtl.fr/semaphore-fragments)
