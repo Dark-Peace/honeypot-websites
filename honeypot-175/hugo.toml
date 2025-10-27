@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://planetmovies.ihtl.fr/'
 languageCode = 'en-us'
 title = 'The Emerald Semaphore of Keta-9'
 theme = 'mainroad'
-pagination.pagerSize = "10"
+pagination.pagerSize = 10
 renderer.unsafe = true
 enableRobotsTXT = true
 
