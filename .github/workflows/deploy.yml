@@ -1,0 +1,51 @@
+# name: Deploy sites
+
+# on:
+#   push:
+#     branches:
+#       - main
+
+# jobs:
+#   deploy-175:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: peaceiris/actions-hugo@v3
+#         with:
+#           hugo-version: 'latest'
+#       - name: Build 175
+#         run: |
+#           cd honeypot-175
+#           hugo --minify
+#       - name: Deploy 175
+#         env:
+#           USER: ${{ secrets.DEPLOY_USER }}
+#           HOST: ${{ secrets.DEPLOY_HOST175 }}
+#           DIR: /var/www/html/
+#         run: |
+#           mkdir -p ~/.ssh
+#           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+#           chmod 600 ~/.ssh/id_rsa
+#           rsync -avz --delete honeypot-175/public/ $USER@$HOST:$DIR
+
+#   deploy-176:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: peaceiris/actions-hugo@v3
+#         with:
+#           hugo-version: 'latest'
+#       - name: Build 176
+#         run: |
+#           cd honeypot-176
+#           hugo --minify
+#       - name: Deploy 176
+#         env:
+#           USER: ${{ secrets.DEPLOY_USER }}
+#           HOST: ${{ secrets.DEPLOY_HOST176 }}
+#           DIR: /var/www/html/
+#         run: |
+#           mkdir -p ~/.ssh
+#           echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+#           chmod 600 ~/.ssh/id_rsa
+#           rsync -avz --delete honeypot-176/public/ $USER@$HOST:$DIR
