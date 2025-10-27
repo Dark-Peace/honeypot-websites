@@ -4,6 +4,7 @@ title = 'The Emerald Semaphore of Keta-9'
 theme = 'mainroad'
 pagination.pagerSize = "10"
 renderer.unsafe = true
+enableRobotsTXT = true
 
 [Params.style.vars]
   highlightColor = "#2de278ff"
