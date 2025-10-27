@@ -4,6 +4,7 @@ title = 'Klyth-77 — The Halcyon Codex of Sarn'
 theme = 'mainroad'
 pagination.pagerSize = "5"
 renderer.unsafe = true
+enableRobotsTXT = true
 
 [Params.style.vars]
   highlightColor = "#2de278ff"
