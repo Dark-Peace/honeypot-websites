@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://moviemania.ihtl.fr/'
 languageCode = 'en-us'
 title = 'Klyth-77 — The Halcyon Codex of Sarn'
 theme = 'mainroad'
-pagination.pagerSize = "5"
+pagination.pagerSize = 5
 renderer.unsafe = true
 enableRobotsTXT = true
 
