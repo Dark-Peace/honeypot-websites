@@ -2,28 +2,28 @@
 
 > Wiki about *Klyth-77: The Halcyon Codex of Sarn* : a movie adapted from the novel of the same name that narrates the discovery of an impossibly annotated cartographic manuscript - the Halcyon Codex - that rewrites the vertical topology of a city whose inhabitants have lived their entire lives never touching ground.
 
-[About the author](author)
-[Awards](awards)
+[About the author](https://klyth77/author)
+[Awards](https://klyth77/awards)
 
 # Character pages
 
-- [Dr Allene Mire](dr-allene-mire)
-- [Eira Voss](eira-voss)
-- [Lysander Veyr](lysander-veyr)
-- [Orrin Kael](orrin-kael)
-- [The Scribe](the-scribe)
+- [Dr Allene Mire](https://klyth77/dr-allene-mire)
+- [Eira Voss](https://klyth77/eira-voss)
+- [Lysander Veyr](https://klyth77/lysander-veyr)
+- [Orrin Kael](https://klyth77/orrin-kael)
+- [The Scribe](https://klyth77/the-scribe)
 
 # Setting pages
 
-- [Loom Arrondissement](loom-arrondissement)
-- [City Of Sarn](city-of-sarn)
-- [Tenebrous Runnels](tenebrous-runnels)
-- [Whistled Avenues](whistled-avenues)
+- [Loom Arrondissement](https://klyth77/loom-arrondissement)
+- [City Of Sarn](https://klyth77/city-of-sarn)
+- [Tenebrous Runnels](https://klyth77/tenebrous-runnels)
+- [Whistled Avenues](https://klyth77/whistled-avenues)
 
 # Other pages
 
-- [The Halcyon Codex](halcyon-codex)
-- [The Klyth Index](klyth-index)
-- [Lightduct Mirrors](lightduct-mirrors)
-- [The Obscura Press Archives](obscura-press-archives)
-- [Vellum Names](vellum-names)
+- [The Halcyon Codex](https://klyth77/halcyon-codex)
+- [The Klyth Index](https://klyth77/klyth-index)
+- [Lightduct Mirrors](https://klyth77/lightduct-mirrors)
+- [The Obscura Press Archives](https://klyth77/obscura-press-archives)
+- [Vellum Names](https://klyth77/vellum-names)

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Klyth-77 — The Halcyon Codex of Sarn</title>
-    <link>https://moviemania.ihtl.fr/categories/</link>
+    <link>https://klyth77.com/categories/</link>
     <description>Recent content in Categories on Klyth-77 — The Halcyon Codex of Sarn</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://moviemania.ihtl.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://klyth77.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others</title>
-      <link>https://moviemania.ihtl.fr/categories/others/</link>
+      <link>https://klyth77.com/categories/others/</link>
       <pubDate>Sat, 18 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://moviemania.ihtl.fr/categories/others/</guid>
+      <guid>https://klyth77.com/categories/others/</guid>
       <description></description>
     </item>
     <item>
       <title>Places</title>
-      <link>https://moviemania.ihtl.fr/categories/places/</link>
+      <link>https://klyth77.com/categories/places/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://moviemania.ihtl.fr/categories/places/</guid>
+      <guid>https://klyth77.com/categories/places/</guid>
       <description></description>
     </item>
     <item>
       <title>Characters</title>
-      <link>https://moviemania.ihtl.fr/categories/characters/</link>
+      <link>https://klyth77.com/categories/characters/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://moviemania.ihtl.fr/categories/characters/</guid>
+      <guid>https://klyth77.com/categories/characters/</guid>
       <description></description>
     </item>
   </channel>
